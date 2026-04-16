@@ -1,0 +1,16 @@
+[
+  {
+    "ip": "80.242.59.112",
+    "port": "3429",
+    "online": "0",
+    "maxonline": "1000",
+    "color": "#F68B1F",
+    "x2": false,
+    "key": "curt_russia_1",
+    "name": "CURT RUSSIA",
+    "firstname": "CURT",
+    "secondname": "RUSSIA",
+    "url": "http://80.242.59.112/",
+    "testServerId": 1
+  }
+]
