@@ -1,0 +1,23 @@
+{
+  "type_download_resources_3": {
+    "rustore": "",
+    "google_play": "",
+    "site": ""
+  },
+  "download_size_without_confirm": 102400,
+  "is_enabled_recovery": false,
+  "is_enabled_check_resources": false,
+  "candidate_versions": {
+    "rustore": 0,
+    "google_play": 0,
+    "site": 0
+  },
+  "download_speed_limit": 524288,
+  "download_timeout": 1200000,
+  "connection_timeout": 15000,
+  "ab_test": {
+    "rustore": 0,
+    "google_play": 0,
+    "site": 0
+  }
+}
