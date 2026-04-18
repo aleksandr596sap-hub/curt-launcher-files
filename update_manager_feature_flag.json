@@ -5,8 +5,8 @@
     "site": "hash_json"
   },
   "download_size_without_confirm": 102400,
-  "is_enabled_recovery": false,
-  "is_enabled_check_resources": false,
+  "is_enabled_recovery": true,
+  "is_enabled_check_resources": true,
   "candidate_versions": {
     "rustore": 0,
     "google_play": 0,
